@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/newburger/static/css/main.0759e08a.chunk.css",
+    "main.js": "/newburger/static/js/main.5d0de614.chunk.js",
+    "main.js.map": "/newburger/static/js/main.5d0de614.chunk.js.map",
+    "runtime-main.js": "/newburger/static/js/runtime-main.64bf694d.js",
+    "runtime-main.js.map": "/newburger/static/js/runtime-main.64bf694d.js.map",
+    "static/js/2.d8e4de39.chunk.js": "/newburger/static/js/2.d8e4de39.chunk.js",
+    "static/js/2.d8e4de39.chunk.js.map": "/newburger/static/js/2.d8e4de39.chunk.js.map",
+    "index.html": "/newburger/index.html",
+    "precache-manifest.61fe4c31476a5757efb7d18d5889c351.js": "/newburger/precache-manifest.61fe4c31476a5757efb7d18d5889c351.js",
+    "service-worker.js": "/newburger/service-worker.js",
+    "static/css/main.0759e08a.chunk.css.map": "/newburger/static/css/main.0759e08a.chunk.css.map",
+    "static/js/2.d8e4de39.chunk.js.LICENSE.txt": "/newburger/static/js/2.d8e4de39.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/newburger/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64bf694d.js",
+    "static/js/2.d8e4de39.chunk.js",
+    "static/css/main.0759e08a.chunk.css",
+    "static/js/main.5d0de614.chunk.js"
+  ]
+}
